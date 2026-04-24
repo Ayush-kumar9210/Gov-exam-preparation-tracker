@@ -51,3 +51,16 @@ Preparing for government exams requires consistency, planning, and tracking prog
 
 
 ## 📂 Project Structure
+📌 Future Improvements
+User authentication system
+Cloud data storage
+Mobile responsive improvements
+Advanced analytics dashboard
+👨‍💻 Author
+
+Ayush Kumar
+📧 kumarayush0434@gmail.com
+
+🔗 GitHub: https://github.com/Ayush-kumar9210
+
+🔗 LinkedIn: (Add your LinkedIn profile link here)
