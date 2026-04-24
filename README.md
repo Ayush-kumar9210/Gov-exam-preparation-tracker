@@ -63,4 +63,4 @@ Ayush Kumar
 
 🔗 GitHub: https://github.com/Ayush-kumar9210
 
-🔗 LinkedIn: (Add your LinkedIn profile link here)
+🔗 LinkedIn: https://www.linkedin.com/in/ayush-kumar-9062ba284/
