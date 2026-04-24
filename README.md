@@ -48,8 +48,10 @@ Preparing for government exams requires consistency, planning, and tracking prog
 - **Language:** JavaScript (ES6+)
 - **Styling:** CSS
 - **Storage:** Local Storage (Browser)
-
+- 
 ---
+
+
 ## 📂 Project Structure
 exam-prep-tracker/
 │── public/
@@ -61,9 +63,6 @@ exam-prep-tracker/
 │ ├── App.js
 │ ├── index.js
 │── package.json
-
-
----
 
 
 ## 📂 Project Structure
